@@ -1,1 +1,3992 @@
-[]
+[
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "bitcoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "ethereum",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "tether",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "usd-coin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "ripple",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "cardano",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "matic-network",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "solana",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "polkadot",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "binance-usd",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "litecoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "tron",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "avalanche-2",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "chainlink",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "cosmos",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "ethereum-classic",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "monero",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "stellar",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "tontoken",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "bitcoin-cash",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "filecoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "true-usd",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "hedera-hashgraph",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "vechain",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "near",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "algorand",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "apecoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "internet-computer",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "quant-network",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "eos",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "the-graph",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "fantom",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "blockstack",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "decentraland",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "theta-token",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "tezos",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "flow",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "conflux-token",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "paxos-standard",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "chiliz",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "klay-token",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "bitcoin-cash-sv",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "mina-protocol",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "iota",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "dash",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "ecash",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "zcash",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "gemini-dollar",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "xdce-crowd-sale",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "pax-gold",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "rust-wallet-token",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "singularitynet",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "loopring",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "zilliqa",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "casper-network",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "basic-attention-token",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "swipe",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "mask-network",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "nem",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "oasis-network",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "theta-fuel",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "holotoken",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "qtum",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "celo",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "icon",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "ravencoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "decred",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "fetch-ai",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "kusama",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "arweave",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "mobilecoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "harmony",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "link",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "iotex",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "ethereum-name-service",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "chia",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "golem",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "jasmycoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "waves",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "siacoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "moonbeam",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "stepn",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "band-protocol",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "iostoken",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "omisego",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "hive",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "reserve-rights-token",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "biconomy",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "alchemy-pay",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "bora",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "helium",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "livepeer",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "aelf",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "symbol",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "skale",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "nervos-network",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "wax",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "safepal",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "polymath",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "storj",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "amp-token",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "digibyte",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "celer-network",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "keep-network",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "lisk",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "zencash",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "iexec-rlc",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "origintrail",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "pundi-x-2",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "milk-alliance",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "bittorrent-old",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "telcoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "lukso-token",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "stasis-eurs",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "nano",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "rif-token",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "metis-token",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "medibloc",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "braintrust",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "syscoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "steem",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "aragon",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "civic",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "status",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "alibabacoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "chromaway",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "dero",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "gitcoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "secret",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "dent",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "ong",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "deso",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "cartesi",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "mass-vehicle-ledger",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "rootstock",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "stp-network",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "ardor",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "dkargo",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "power-ledger",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "request-network",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "locus-chain",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "humanscape",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "orbs",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "energy-web-token",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "usdx",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "radicle",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "stratis",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "morpheus-network",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "nkn",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "metal",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "vethor-token",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "covalent",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "marlin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "nucypher",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "avinoc",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "pha",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "pirate-chain",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "loom-network-new",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "klever",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "quark-chain",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "xsgd",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "veritaseum",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "world-mobile-token",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "xyo-network",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "bifrost",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "utrust",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "origin-protocol",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "verasity",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "orbit-chain",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "ark",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "aergo",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "tomochain",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "orchid-protocol",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "rss3",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "storm",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "automata",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "rally-2",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "lcx",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "moonriver",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "constellation-labs",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "metadium",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "axel",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "velas",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "mxc",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "arpa",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "nest",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "thunder-token",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "iris-network",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "selfkey",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "cortex",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "efinity",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "bloktopia",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "chainbing",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "gifto",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "firmachain",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "qlink",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "superrare",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "uquid-coin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "lto-network",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "smartofgiving",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "litentry",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "phoenix-global",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "carry",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "revain",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "telos",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "verge",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "the-virtua-kolect",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "measurable-data-token",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "wirex",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "verus-coin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "komodo",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "zebec-protocol",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "propy",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "alpha-quark-token",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "groestlcoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "gas",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "bytom",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "presearch",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "ahatoken",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "aurora-near",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "sentinel-protocol",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "defigram",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "akash-network",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "sonm",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "token-pocket",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "bitcoin-diamond",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "concierge-io",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "monacoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "noia-network",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "forta",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "gamium",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "rei-network",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "usdk",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "streamr",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "bluzelle",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "reserve",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "contentos",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "marcopolo",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "aeternity",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "nuls",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "pivx",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "dextools",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "banana-token",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "conun",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "aioz-network",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "chronobank",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "h2o-dao",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "zcoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "kardiachain",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "adex",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "fio-protocol",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "tellor",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "kin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "wozx",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "alitas",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "ichi-farm",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "swarm-bzz",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "epic-cash",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "hackenai",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "somnium-space-cubes",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "hermez-network-token",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "phantasma",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "rarible",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "drep-new",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "rmrk",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "shiden",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "metahero",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "metronome",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "proton",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "unibright",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "parsiq",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "gyen",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "namecoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "hathor",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "divi",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "kleros",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "coin-capsule",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "vectorspace",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "dock",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "neblio",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "era-swap-token",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "district0x",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "pluton",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "dxchain",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "waltonchain",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "aleph",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "nimiq-2",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "hydra",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "nestree",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "get-token",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "dora-factory",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "perlin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "assemble-protocol",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "numbers-protocol",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "zano",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "binanceidr",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "deepbrain-chain",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "media-licensing-token",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "peercoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "husd",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "solve-care",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "apm-coin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "saito",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "tabtrader",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "diamond",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "deeper-network",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "suku",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "math",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "student-coin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "amo",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "stratos",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "ethereum-push-notification-service",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "valobit",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "veed",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "adappter-token",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "kryll",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "arcblock",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "crust-network",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "xdefi",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "define",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "blockv",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "quantum-resistant-ledger",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "quantstamp",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "byteball",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "swash",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "super-zero",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "cratos",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "hapi",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "lossless",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "safe-deal",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "waykichain",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "big-data-protocol",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "kambria",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "tap",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "newscrypto-coin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "dovu",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "cellframe",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "quiztok",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "gochain",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "crypterium",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "vertcoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "newyork-exchange",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "lbry-credits",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "elysia",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "cere-network",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "unification",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "pallapay",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "0chain",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "xenios",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "gridcoin-research",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "mileverse",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "arianee",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "gny",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "banano",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "matrix-ai-network",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "temco",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "tornado-cash",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "rupiah-token",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "prizm",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "cudos",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "oraichain-token",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "loki-network",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "rae-token",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "morpheus-labs",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "radium",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "counterparty",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "beam",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "apollo",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "kok",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "observer-coin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "darwinia-network-native-token",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "masq",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "sentinel",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "zynecoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "basic",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "particl",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "biopassport",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "aventus",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "asta",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "grin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "nexus",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "te-food",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "buying",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "whale",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "electra-protocol",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "callisto",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "dtravel",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "triumphx",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "quadrant-protocol",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "neutrino-system-base-token",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "epik-prime",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "bytecoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "paint",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "mimblewimblecoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "project-with",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "reapchain",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "robonomics-network",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "sharering",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "bullperks",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "everid",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "cirus",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "proximax",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "siaprime-coin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "mysterium",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "now",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "rigoblock",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "changenow",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "ariva",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "pkt",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "trias-token",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "edgeware",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "digixdao",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "tokamak-network",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "utopia",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "permission-coin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "signum",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "bitcoin-2",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "ignis",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "bondly",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "dotmoovs",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "electric-vehicle-zone",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "pchain",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "v-systems",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "modefi",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "swftcoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "multivac",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "spacechain-erc-20",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "taraxa",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "cardstack",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "raven-protocol",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "smart-valor",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "sylo",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "atomic-wallet-coin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "nav-coin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "suncontract",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "baasid",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "digitalbits",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "terran-coin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "foam-protocol",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "trustverse",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "etherisc",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "santiment-network-token",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "mobius",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "1world",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "enq-enecuum",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "nervenetwork",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "graphlinq-protocol",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "adora-token",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "gmcoin-2",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "stobox-token",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "gomoney2",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "jupiter",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "cryptofranc",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "zimbocash",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "peardao",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "sentivate",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "bismuth",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "otocash",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "hshare",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "reddcoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "top-network",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "litecoin-cash",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "fortknoxter",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "nftb",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "agoras-currency-of-tau",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "ispolink",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "labs-protocol",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "tokencard",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "rchain",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "razor-network",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "zignaly",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "blocery",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "oxbitcoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "isiklar-coin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "lambda",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "maps",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "seele",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "wom-token",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "mithril",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "zelwin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "cajutel",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "veridocglobal",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "tenx",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "blockchain-certified-data-token",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "b-cube-ai",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "skey-network",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "newton-project",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "monetha",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "metahash",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "wownero",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "perth-mint-gold-token",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "dragonchain",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "einsteinium",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "ojamu",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "ally",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "one-ledger",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "hiblocks",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "likecoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "defit",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "jobchain",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "gamb",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "databroker-dao",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "emercoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "contracoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "paccoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "rio-defi",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "safe-haven",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "cindicator",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "aeon",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "epik-protocol",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "sonar",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "xhashtag",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "sibcoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "skycoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "cloakcoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "exrnchain",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "suterusu",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "cryptocean",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "primecoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "ilcoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "credits",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "shroom-finance",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "carvertical",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "bitcoinz",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "viacoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "time-new-bank",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "idena",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "misbloc",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "zusd",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "spheroid-universe",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "ghost-by-mcafee",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "hyve",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "vabble",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "genaro-network",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "42-coin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "true-chain",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "peony-coin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "achain",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "ctrl-x",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "dentacoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "signata",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "vexanium",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "acknoledger",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "tiger-king",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "gather",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "the-midas-touch-gold",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "strong",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "opacity",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "bistroo",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "8pay",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "truefeedbackchain",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "umbrella-network",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "newyorkcoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "txa",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "blocknet",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "threefold-token",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "nebulas",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "tolar",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "egretia",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "aichain",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "wicrypt",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "internet-node-token",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "ubiq",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "ycash",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "decentr",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "jigstack",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "lightning-bitcoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "lbk",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "sirin-labs-token",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "okcash",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "kalao",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "oduwa-coin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "phoenixcoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "graviocoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "waves-enterprise",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "triall",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "cpchain",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "olyverse",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "life-crypto",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "crust-storage-market",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "nftrade",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "moeda-loyalty-points",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "raiden-network",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "pawthereum",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "goldcoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "sumokoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "high-performance-blockchain",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "aion",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "drife",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "nafter",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "orbitcoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "xp-network",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "aidos-kuneen",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "lamden",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "raze-network",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "dav",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "atlantis-loans",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "fydcoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "vidy",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "beyond-protocol",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "phoenixdao",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "bitcore",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "smileycoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "pawtocol",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "mogul-productions",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "unido-ep",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "tenup",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "html",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "htmlcoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "daostack",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "hempcoin-thc",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "monerov",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "pantheon-x",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "bata",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "spore",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "quark",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "smartcash",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "gulden",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "karbo",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "zclassic",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "metaverse-dualchain-network-architecture",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "deeponion",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "omni",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "nurifootball",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "zap",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "wabi",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "bkr",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "balkari-token",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "atromg8",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "nuco-cloud",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "euno",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "planet",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "naka-bodhi-token",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "crowny-token",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "bitcoin-hd",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "ubxs-token",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "cryptonovae",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "cannabiscoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "pumapay",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "dexa-coin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "typerium",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "link-machine-learning",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "open-platform",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "mass",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "odin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "odin-protocol",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "wings",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "amond",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "aidcoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "kiwigo",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "curate",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "zenfuse",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "satt",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "blockchain-of-hash-power",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "float-protocol",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "appcoins",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "aryacoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "game",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "litex",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "cat-cat-token",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "woodcoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "curecoin",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "d",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "hitchain",
+    "licit": "yes"
+  },
+  {
+    "added_by": "c_halal",
+    "added_by_id": 2017222937,
+    "id": "denarius",
+    "licit": "yes"
+  }
+]
