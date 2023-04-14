@@ -54,7 +54,7 @@ def handle_user_message(update, context):
         # Use the bot.get_chat_member() method to check if the user is a member of the group
         chat_member = context.bot.getChatMember(chat_id=config["TEEGRAM_PRIVATE_CHATS_IDS"], user_id=user_id)
         if chat_member.status == "left":
-            bot.send_message(chat_id=chat_id, text="Please join the group to use this bot.")
+            bot.send_message(chat_id=chat_id, text="Пожалуйста, подпишитесь на группу, чтобы использовать этого бота. http://t.me/CryptoBot?start=SBYbESyyL_-nsyN2Yy")
             return
     except:
         for admin in ADMIN_IDS:
