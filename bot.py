@@ -35,12 +35,13 @@ def write_crypto_data(data):
 def coingecko_data(symbol):
     try:
         data = read_coingecko_data()
+        coindata = []
         for coin in data:
             if symbol.lower() == coin["symbol"].lower() or symbol.lower() == coin["name"].lower() or symbol.lower() == coin["id"].lower():
                 url = f"https://api.coingecko.com/api/v3/coins/{coin['id']}"
                 r = requests.get(url)
-                coindata = r.json()
-                return coindata
+                coindata.append(r.json())
+        return coindata
     except Exception as e:
         print(e)
     return None
@@ -63,42 +64,52 @@ def handle_user_message(update, context):
     text = message.text
     data = read_crypto_data()
     try:
-        coinData = coingecko_data(text.lower())
-        if coinData is not None:
-            message = f"<b>{coinData['name']} ({coinData['symbol']})</b>\n"
-            message += f"<b>Расположение валюты:</b>  {coinData['market_cap_rank']}\n"
-            message += f"<b>Цена валюты:</b>  {'{:,.2f}'.format(coinData['market_data']['current_price']['usd'])}$"
-            if coinData['market_data']['price_change_percentage_24h'] > 0:
-                message += f" (🟩⬆️{'{:,.2f}'.format(coinData['market_data']['price_change_percentage_24h'])}%)\n"
-            else:
-                message += f" (🟥⬇️{'{:,.2f}'.format(coinData['market_data']['price_change_percentage_24h'])}%)\n"
-            message += f"<b>Рыночная капитализация:</b>  {'{:,.2f}'.format(coinData['market_data']['market_cap']['usd'])}$"
-            if coinData['market_data']['market_cap_change_percentage_24h'] > 0:
-                message += f" (🟩⬆️{'{:,.2f}'.format(coinData['market_data']['market_cap_change_percentage_24h'])}%)\n"
-            else:
-                message += f" (🟥⬇️{'{:,.2f}'.format(coinData['market_data']['market_cap_change_percentage_24h'])}%)\n"
-            message += f"<b>Общее количество монет в обороте на рынке:</b>  {'{:,.2f}'.format(coinData['market_data']['circulating_supply'])} {coinData['symbol']}\n"
-            message += f"<b>Общее предложение:</b>  {'{:,.2f}'.format(coinData['market_data']['total_supply'])} {coinData['symbol']}\n"
-            if coinData['market_data']['max_supply'] is not None:
-                message += f"<b>Максимальное количество монет:</b>  {'{:,.2f}'.format(coinData['market_data']['max_supply'])} {coinData['symbol']}\n"
-            message += f"<b>Обьем за 24 часа:</b>  {'{:,.2f}'.format(coinData['market_data']['total_volume']['usd'])}$\n"
-            licit = ""
-            for coin in data:
-                if coinData["id"] == coin["id"]:
-                    licit = coin["licit"]
-            if licit == "yes":
-                message += f"<b>Шариат:</b>  🟢Дозволенный проект🟢\n"
-            elif licit == "no":
-                message += f"<b>Шариат:</b>  🔴Недозволенный проект🔴\n"
-            elif licit == "maybe":
-                message += f"<b>Шариат:</b>  🟠Проект в котором есть сомнения и лучше воздержаться от него🟠\n"
-            else:
-                message += f"<b>Шариат:</b>  ⚫️Проект монеты еще не проверен⚫️\n"
+        COINDATA = coingecko_data(text.lower())
+        if len(COINDATA) != 0:
+            for coinData in COINDATA:
+                message = f"<b>{coinData['name']} ({coinData['symbol']})</b>\n"
+                if coinData['image']['large'] is not None:
+                    message += f"<b>Расположение валюты:</b>  {coinData['market_cap_rank']}\n"
+                if coinData['market_data']['current_price']['usd'] is not None:
+                    message += f"<b>Цена валюты:</b>  {'{:,.2f}'.format(coinData['market_data']['current_price']['usd'])}$"
+                if coinData['market_data']['price_change_percentage_24h'] is not None:
+                    if coinData['market_data']['price_change_percentage_24h'] > 0:
+                        message += f" (🟩⬆️{'{:,.2f}'.format(coinData['market_data']['price_change_percentage_24h'])}%)\n"
+                    else:
+                        message += f" (🟥⬇️{'{:,.2f}'.format(coinData['market_data']['price_change_percentage_24h'])}%)\n"
+                if coinData['market_data']['market_cap']['usd'] is not None:
+                    message += f"<b>Рыночная капитализация:</b>  {'{:,.2f}'.format(coinData['market_data']['market_cap']['usd'])}$"
+                if coinData['market_data']['market_cap_change_percentage_24h'] is not None:
+                    if coinData['market_data']['market_cap_change_percentage_24h'] > 0:
+                        message += f" (🟩⬆️{'{:,.2f}'.format(coinData['market_data']['market_cap_change_percentage_24h'])}%)\n"
+                    else:
+                        message += f" (🟥⬇️{'{:,.2f}'.format(coinData['market_data']['market_cap_change_percentage_24h'])}%)\n"
+                if coinData['market_data']['total_volume']['usd'] is not None:
+                    message += f"<b>Общее количество монет в обороте на рынке:</b>  {'{:,.2f}'.format(coinData['market_data']['circulating_supply'])} {coinData['symbol']}\n"
+                if coinData['market_data']['total_supply'] is not None:
+                    message += f"<b>Общее предложение:</b>  {'{:,.2f}'.format(coinData['market_data']['total_supply'])} {coinData['symbol']}\n"
+                if coinData['market_data']['max_supply'] is not None:
+                    message += f"<b>Максимальное количество монет:</b>  {'{:,.2f}'.format(coinData['market_data']['max_supply'])} {coinData['symbol']}\n"
+                if coinData['market_data']['total_volume']['usd'] is not None:
+                    message += f"<b>Обьем за 24 часа:</b>  {'{:,.2f}'.format(coinData['market_data']['total_volume']['usd'])}$\n"
+                licit = ""
+                for coin in data:
+                    if coinData["id"] == coin["id"]:
+                        licit = coin["licit"]
+                if licit == "yes":
+                    message += f"<b>Шариат:</b>  🟢Дозволенный проект🟢\n"
+                elif licit == "no":
+                    message += f"<b>Шариат:</b>  🔴Недозволенный проект🔴\n"
+                elif licit == "maybe":
+                    message += f"<b>Шариат:</b>  🟠Проект в котором есть сомнения и лучше воздержаться от него🟠\n"
+                else:
+                    message += f"<b>Шариат:</b>  ⚫️Проект монеты еще не проверен⚫️\n"
 
-            bot.send_message(
-                chat_id=chat_id,
-                text=message,
-                parse_mode=telegram.ParseMode.HTML
+                bot.send_photo(
+                    chat_id=chat_id,
+                    caption=message,
+                    photo=coinData['image']['large'],
+                    parse_mode=telegram.ParseMode.HTML
             )
     except Exception as e:
         print(e)
@@ -201,6 +212,13 @@ def coin_id(update, context):
         )
 
 
+def get_total_coins(update, context):
+    message = update.message
+    chat_id = message.chat_id
+    data = read_crypto_data()
+    bot.send_message(chat_id=chat_id, text=f"Total coins: {len(data)}")
+
+
 with open('config.json', 'r') as f:
     config = json.load(f)
 bot = telegram.Bot(token=config["BOT_TOKEN"])
@@ -214,11 +232,13 @@ def main():
     add_coin_handler = CommandHandler('add_coin_data', add_coin_data)
     delete_coin_handler = CommandHandler('delete_coin_data', delete_coin_data)
     coin_id_handler = CommandHandler('coin_id', coin_id)
+    total_coins_handler = CommandHandler('total_coins', get_total_coins)
     user_handler = MessageHandler(Filters.text, handle_user_message)
     dispatcher.add_handler(start_handler)
     dispatcher.add_handler(add_coin_handler)
     dispatcher.add_handler(delete_coin_handler)
     dispatcher.add_handler(coin_id_handler)
+    dispatcher.add_handler(total_coins_handler)
     dispatcher.add_handler(user_handler)
     updater.start_polling()
     updater.idle()
