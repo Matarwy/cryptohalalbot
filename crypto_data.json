@@ -3988,5 +3988,2337 @@
     "added_by_id": 2017222937,
     "id": "denarius",
     "licit": "yes"
+  },
+  {
+    "id": "venus",
+    "licit": "no"
+  },
+  {
+    "id": "augur",
+    "licit": "no"
+  },
+  {
+    "id": "maidsafecoin",
+    "licit": "yes"
+  },
+  {
+    "id": "badger-dao",
+    "licit": "no"
+  },
+  {
+    "id": "melon",
+    "licit": "no"
+  },
+  {
+    "id": "reef",
+    "licit": "no"
+  },
+  {
+    "id": "just",
+    "licit": "no"
+  },
+  {
+    "id": "aurora-dao",
+    "licit": "no"
+  },
+  {
+    "id": "dodo",
+    "licit": "no"
+  },
+  {
+    "id": "rook",
+    "licit": "no"
+  },
+  {
+    "id": "molecular-future",
+    "licit": "no"
+  },
+  {
+    "id": "derivadao",
+    "licit": "no"
+  },
+  {
+    "id": "ribbon-finance",
+    "licit": "no"
+  },
+  {
+    "id": "polkastarter",
+    "licit": "no"
+  },
+  {
+    "id": "mmocoin",
+    "licit": "no"
+  },
+  {
+    "id": "cumrocket",
+    "licit": "no"
+  },
+  {
+    "id": "superfarm",
+    "licit": "no"
+  },
+  {
+    "id": "kava",
+    "licit": "no"
+  },
+  {
+    "id": "coti",
+    "licit": "no"
+  },
+  {
+    "id": "hex",
+    "licit": "no"
+  },
+  {
+    "id": "creditcoin-2",
+    "licit": "no"
+  },
+  {
+    "id": "defichain",
+    "licit": "no"
+  },
+  {
+    "id": "ecomi",
+    "licit": "yes"
+  },
+  {
+    "id": "coin98",
+    "licit": "no"
+  },
+  {
+    "id": "strike",
+    "licit": "no"
+  },
+  {
+    "id": "bitdao",
+    "licit": "no"
+  },
+  {
+    "id": "anchor-protocol",
+    "licit": "no"
+  },
+  {
+    "id": "bitshares",
+    "licit": "no"
+  },
+  {
+    "id": "numeraire",
+    "licit": "no"
+  },
+  {
+    "id": "singularitydao",
+    "licit": "no"
+  },
+  {
+    "id": "unfederalreserve",
+    "licit": "no"
+  },
+  {
+    "id": "gmt-token",
+    "licit": "no"
+  },
+  {
+    "id": "safe-token",
+    "licit": "yes"
+  },
+  {
+    "id": "o3-swap",
+    "licit": "no"
+  },
+  {
+    "id": "acoconut",
+    "licit": "no"
+  },
+  {
+    "id": "sparkpoint",
+    "licit": "maybe"
+  },
+  {
+    "id": "pendle",
+    "licit": "no"
+  },
+  {
+    "id": "exeedme",
+    "licit": "no"
+  },
+  {
+    "id": "populous",
+    "licit": "no"
+  },
+  {
+    "id": "vega-protocol",
+    "licit": "no"
+  },
+  {
+    "id": "adshares",
+    "licit": "no"
+  },
+  {
+    "id": "polkafoundry",
+    "licit": "no"
+  },
+  {
+    "id": "apy-finance",
+    "licit": "no"
+  },
+  {
+    "id": "wagyuswap",
+    "licit": "no"
+  },
+  {
+    "id": "smoothy",
+    "licit": "no"
+  },
+  {
+    "id": "hot-cross",
+    "licit": "no"
+  },
+  {
+    "id": "musd",
+    "licit": "yes"
+  },
+  {
+    "id": "seigniorage-shares",
+    "licit": "no"
+  },
+  {
+    "id": "skyrim-finance",
+    "licit": "no"
+  },
+  {
+    "id": "biblepay",
+    "licit": "no"
+  },
+  {
+    "id": "gameswap-org",
+    "licit": "no"
+  },
+  {
+    "id": "bitrue-token",
+    "licit": "no"
+  },
+  {
+    "id": "binancecoin",
+    "licit": "no"
+  },
+  {
+    "id": "uniswap",
+    "licit": "no"
+  },
+  {
+    "id": "wrapped-bitcoin",
+    "licit": "no"
+  },
+  {
+    "id": "aave",
+    "licit": "no"
+  },
+  {
+    "id": "compound-governance-token",
+    "licit": "no"
+  },
+  {
+    "id": "pancakeswap-token",
+    "licit": "no"
+  },
+  {
+    "id": "dogecoin",
+    "licit": "yes"
+  },
+  {
+    "id": "thorchain",
+    "licit": "no"
+  },
+  {
+    "id": "liquity",
+    "licit": "no"
+  },
+  {
+    "id": "moviebloc",
+    "licit": "no"
+  },
+  {
+    "id": "kava-swap",
+    "licit": "no"
+  },
+  {
+    "id": "duckdaodime",
+    "licit": "no"
+  },
+  {
+    "id": "bridge-mutual",
+    "licit": "no"
+  },
+  {
+    "id": "dexlab",
+    "licit": "no"
+  },
+  {
+    "id": "spiritswap",
+    "licit": "no"
+  },
+  {
+    "id": "pulsepad",
+    "licit": "no"
+  },
+  {
+    "id": "poolz-finance-2",
+    "licit": "no"
+  },
+  {
+    "id": "pacoca",
+    "licit": "no"
+  },
+  {
+    "id": "rainbow-token-2",
+    "licit": "yes"
+  },
+  {
+    "id": "polkadex",
+    "licit": "no"
+  },
+  {
+    "id": "degate",
+    "licit": "no"
+  },
+  {
+    "id": "ipx-token",
+    "licit": "yes"
+  },
+  {
+    "id": "lua-token",
+    "licit": "no"
+  },
+  {
+    "id": "yoyow",
+    "licit": "yes"
+  },
+  {
+    "id": "ardcoin",
+    "licit": "no"
+  },
+  {
+    "id": "venus-ltc",
+    "licit": "no"
+  },
+  {
+    "id": "venus-sxp",
+    "licit": "no"
+  },
+  {
+    "id": "idia",
+    "licit": "no"
+  },
+  {
+    "id": "hord",
+    "licit": "no"
+  },
+  {
+    "id": "tokenomy",
+    "licit": "no"
+  },
+  {
+    "id": "venus-link",
+    "licit": "no"
+  },
+  {
+    "id": "the-crypto-prophecies",
+    "licit": "no"
+  },
+  {
+    "id": "futureswap",
+    "licit": "no"
+  },
+  {
+    "id": "unilayer",
+    "licit": "no"
+  },
+  {
+    "id": "opium",
+    "licit": "yes"
+  },
+  {
+    "id": "paribus",
+    "licit": "no"
+  },
+  {
+    "id": "polker",
+    "licit": "yes"
+  },
+  {
+    "id": "dinoswap",
+    "licit": "no"
+  },
+  {
+    "id": "whiteheart",
+    "licit": "no"
+  },
+  {
+    "id": "rhythm",
+    "licit": "no"
+  },
+  {
+    "id": "levolution",
+    "licit": "yes"
+  },
+  {
+    "id": "horizon-protocol",
+    "licit": "no"
+  },
+  {
+    "id": "public-index-network",
+    "licit": "yes"
+  },
+  {
+    "id": "tycoon",
+    "licit": "yes"
+  },
+  {
+    "id": "burency",
+    "licit": "no"
+  },
+  {
+    "id": "cappasity",
+    "licit": "yes"
+  },
+  {
+    "id": "definer",
+    "licit": "no"
+  },
+  {
+    "id": "octofi",
+    "licit": "no"
+  },
+  {
+    "id": "swerve-dao",
+    "licit": "no"
+  },
+  {
+    "id": "yield-optimization-platform",
+    "licit": "no"
+  },
+  {
+    "id": "powertrade-fuel",
+    "licit": "no"
+  },
+  {
+    "id": "integral",
+    "licit": "no"
+  },
+  {
+    "id": "x-cash",
+    "licit": "yes"
+  },
+  {
+    "id": "peanut",
+    "licit": "no"
+  },
+  {
+    "id": "coldstack",
+    "licit": "yes"
+  },
+  {
+    "id": "sypool",
+    "licit": "no"
+  },
+  {
+    "id": "tera-smart-money",
+    "licit": "yes"
+  },
+  {
+    "id": "nyzo",
+    "licit": "yes"
+  },
+  {
+    "id": "chainx",
+    "licit": "no"
+  },
+  {
+    "id": "yield-app",
+    "licit": "no"
+  },
+  {
+    "id": "gxchain",
+    "licit": "yes"
+  },
+  {
+    "id": "insured-finance",
+    "licit": "no"
+  },
+  {
+    "id": "medishares",
+    "licit": "yes"
+  },
+  {
+    "id": "creaticles",
+    "licit": "yes"
+  },
+  {
+    "id": "honest-mining",
+    "licit": "no"
+  },
+  {
+    "id": "humaniq",
+    "licit": "maybe"
+  },
+  {
+    "id": "evedo",
+    "licit": "yes"
+  },
+  {
+    "id": "stealthcoin",
+    "licit": "yes"
+  },
+  {
+    "id": "digitalnote",
+    "licit": "yes"
+  },
+  {
+    "id": "gravity-finance",
+    "licit": "no"
+  },
+  {
+    "id": "stake-dao",
+    "licit": "no"
+  },
+  {
+    "id": "dynamix",
+    "licit": "no"
+  },
+  {
+    "id": "theforce-trade",
+    "licit": "no"
+  },
+  {
+    "id": "data",
+    "licit": "yes"
+  },
+  {
+    "id": "titan-coin",
+    "licit": "yes"
+  },
+  {
+    "id": "piedao-dough-v2",
+    "licit": "no"
+  },
+  {
+    "id": "skrumble-network",
+    "licit": "yes"
+  },
+  {
+    "id": "golff",
+    "licit": "no"
+  },
+  {
+    "id": "chainium",
+    "licit": "no"
+  },
+  {
+    "id": "microbitcoin",
+    "licit": "yes"
+  },
+  {
+    "id": "totemfi",
+    "licit": "maybe"
+  },
+  {
+    "id": "banca",
+    "licit": "yes"
+  },
+  {
+    "id": "citadel-one",
+    "licit": "maybe"
+  },
+  {
+    "id": "micromoney",
+    "licit": "no"
+  },
+  {
+    "id": "goose-finance",
+    "licit": "no"
+  },
+  {
+    "id": "rigel-protocol",
+    "licit": "no"
+  },
+  {
+    "id": "digitalcoin",
+    "licit": "yes"
+  },
+  {
+    "id": "dexkit",
+    "licit": "no"
+  },
+  {
+    "id": "substratum",
+    "licit": "yes"
+  },
+  {
+    "id": "thorstarter",
+    "licit": "no"
+  },
+  {
+    "id": "digg",
+    "licit": "no"
+  },
+  {
+    "id": "qash",
+    "licit": "no"
+  },
+  {
+    "id": "sarcophagus",
+    "licit": "yes"
+  },
+  {
+    "id": "unisocks",
+    "licit": "no"
+  },
+  {
+    "id": "dxdao",
+    "licit": "no"
+  },
+  {
+    "id": "route",
+    "licit": "no"
+  },
+  {
+    "id": "infinity-pad-2",
+    "licit": "no"
+  },
+  {
+    "id": "k21",
+    "licit": "maybe"
+  },
+  {
+    "id": "lithium-2",
+    "licit": "yes"
+  },
+  {
+    "id": "cashaa",
+    "licit": "maybe"
+  },
+  {
+    "id": "solfarm",
+    "licit": "no"
+  },
+  {
+    "id": "oddz",
+    "licit": "no"
+  },
+  {
+    "id": "coinpoker",
+    "licit": "no"
+  },
+  {
+    "id": "pickle-finance",
+    "licit": "no"
+  },
+  {
+    "id": "nord-finance",
+    "licit": "no"
+  },
+  {
+    "id": "woof-token",
+    "licit": "no"
+  },
+  {
+    "id": "armor",
+    "licit": "no"
+  },
+  {
+    "id": "dogsofelon",
+    "licit": "no"
+  },
+  {
+    "id": "openanx",
+    "licit": "no"
+  },
+  {
+    "id": "kattana",
+    "licit": "no"
+  },
+  {
+    "id": "stacktical",
+    "licit": "no"
+  },
+  {
+    "id": "binemon",
+    "licit": "no"
+  },
+  {
+    "id": "origin-dollar",
+    "licit": "no"
+  },
+  {
+    "id": "venus-dot",
+    "licit": "no"
+  },
+  {
+    "id": "beyond-finance",
+    "licit": "no"
+  },
+  {
+    "id": "refinable",
+    "licit": "no"
+  },
+  {
+    "id": "insurace",
+    "licit": "no"
+  },
+  {
+    "id": "defi-yield-protocol",
+    "licit": "no"
+  },
+  {
+    "id": "nftx",
+    "licit": "no"
+  },
+  {
+    "id": "88mph",
+    "licit": "no"
+  },
+  {
+    "id": "zookeeper",
+    "licit": "no"
+  },
+  {
+    "id": "bridge-oracle",
+    "licit": "no"
+  },
+  {
+    "id": "btu-protocol",
+    "licit": "yes"
+  },
+  {
+    "id": "strips-finance",
+    "licit": "no"
+  },
+  {
+    "id": "impossible-finance",
+    "licit": "no"
+  },
+  {
+    "id": "dapp",
+    "licit": "yes"
+  },
+  {
+    "id": "polis",
+    "licit": "yes"
+  },
+  {
+    "id": "prosper",
+    "licit": "no"
+  },
+  {
+    "id": "swarm-markets",
+    "licit": "no"
+  },
+  {
+    "id": "viberate",
+    "licit": "no"
+  },
+  {
+    "id": "herocoin",
+    "licit": "no"
+  },
+  {
+    "id": "kommunitas",
+    "licit": "no"
+  },
+  {
+    "id": "rocketx",
+    "licit": "no"
+  },
+  {
+    "id": "xio",
+    "licit": "no"
+  },
+  {
+    "id": "the-abyss",
+    "licit": "no"
+  },
+  {
+    "id": "hedget",
+    "licit": "no"
+  },
+  {
+    "id": "velaspad",
+    "licit": "no"
+  },
+  {
+    "id": "disbalancer",
+    "licit": "yes"
+  },
+  {
+    "id": "defi-degen-land",
+    "licit": "no"
+  },
+  {
+    "id": "covercompared",
+    "licit": "no"
+  },
+  {
+    "id": "ruff",
+    "licit": "yes"
+  },
+  {
+    "id": "telos-coin",
+    "licit": "yes"
+  },
+  {
+    "id": "swarm-city",
+    "licit": "yes"
+  },
+  {
+    "id": "zenzo",
+    "licit": "yes"
+  },
+  {
+    "id": "smartshare",
+    "licit": "yes"
+  },
+  {
+    "id": "golden-goose",
+    "licit": "no"
+  },
+  {
+    "id": "expanse",
+    "licit": "yes"
+  },
+  {
+    "id": "ethergem",
+    "licit": "yes"
+  },
+  {
+    "id": "uplexa",
+    "licit": "yes"
+  },
+  {
+    "id": "hashcoin",
+    "licit": "no"
+  },
+  {
+    "id": "tigercash",
+    "licit": "no"
+  },
+  {
+    "id": "oneroot-network",
+    "licit": "yes"
+  },
+  {
+    "id": "delphy",
+    "licit": "yes"
+  },
+  {
+    "id": "friendz",
+    "licit": "yes"
+  },
+  {
+    "id": "maple",
+    "licit": "no"
+  },
+  {
+    "id": "decentralized-advertising",
+    "licit": "yes"
+  },
+  {
+    "id": "dev-protocol",
+    "licit": "no"
+  },
+  {
+    "id": "xmax",
+    "licit": "maybe"
+  },
+  {
+    "id": "bitcoin-lightning",
+    "licit": "yes"
+  },
+  {
+    "id": "echolink",
+    "licit": "yes"
+  },
+  {
+    "id": "insight-protocol",
+    "licit": "yes"
+  },
+  {
+    "id": "stronghands-masternode",
+    "licit": "maybe"
+  },
+  {
+    "id": "bsclaunch",
+    "licit": "no"
+  },
+  {
+    "id": "innovative-bioresearch",
+    "licit": "yes"
+  },
+  {
+    "id": "1million-nfts",
+    "licit": "yes"
+  },
+  {
+    "id": "worldcore",
+    "licit": "yes"
+  },
+  {
+    "id": "ferrum-network",
+    "licit": "no"
+  },
+  {
+    "id": "bolivarcoin",
+    "licit": "yes"
+  },
+  {
+    "id": "mybit-token",
+    "licit": "yes"
+  },
+  {
+    "id": "lition",
+    "licit": "yes"
+  },
+  {
+    "id": "nerva",
+    "licit": "yes"
+  },
+  {
+    "id": "2local-2",
+    "licit": "no"
+  },
+  {
+    "id": "zeusshield",
+    "licit": "no"
+  },
+  {
+    "id": "poet",
+    "licit": "yes"
+  },
+  {
+    "id": "zetacoin",
+    "licit": "yes"
+  },
+  {
+    "id": "anyswap",
+    "licit": "no"
+  },
+  {
+    "id": "swap",
+    "licit": "yes"
+  },
+  {
+    "id": "ormeus-ecosystem",
+    "licit": "no"
+  },
+  {
+    "id": "axis-defi",
+    "licit": "no"
+  },
+  {
+    "id": "cryptobonusmiles",
+    "licit": "yes"
+  },
+  {
+    "id": "cropperfinance",
+    "licit": "no"
+  },
+  {
+    "id": "jade-currency",
+    "licit": "yes"
+  },
+  {
+    "id": "centaur",
+    "licit": "no"
+  },
+  {
+    "id": "tidal-finance",
+    "licit": "no"
+  },
+  {
+    "id": "xend-finance",
+    "licit": "no"
+  },
+  {
+    "id": "elamachain",
+    "licit": "yes"
+  },
+  {
+    "id": "fantomstarter",
+    "licit": "no"
+  },
+  {
+    "id": "loser-coin",
+    "licit": "no"
+  },
+  {
+    "id": "flixxo",
+    "licit": "maybe"
+  },
+  {
+    "id": "shadows",
+    "licit": "no"
+  },
+  {
+    "id": "turtlecoin",
+    "licit": "yes"
+  },
+  {
+    "id": "odyssey",
+    "licit": "no"
+  },
+  {
+    "id": "unlimitedip",
+    "licit": "yes"
+  },
+  {
+    "id": "keyfi",
+    "licit": "no"
+  },
+  {
+    "id": "bean-cash",
+    "licit": "yes"
+  },
+  {
+    "id": "auctus",
+    "licit": "no"
+  },
+  {
+    "id": "spaceswap-milk2",
+    "licit": "no"
+  },
+  {
+    "id": "nftify",
+    "licit": "yes"
+  },
+  {
+    "id": "mettalex",
+    "licit": "no"
+  },
+  {
+    "id": "keep3rv1",
+    "licit": "no"
+  },
+  {
+    "id": "origin-sport",
+    "licit": "yes"
+  },
+  {
+    "id": "geodb",
+    "licit": "yes"
+  },
+  {
+    "id": "hollygold",
+    "licit": "no"
+  },
+  {
+    "id": "step-finance",
+    "licit": "no"
+  },
+  {
+    "id": "hashgard",
+    "licit": "no"
+  },
+  {
+    "id": "eosdac",
+    "licit": "yes"
+  },
+  {
+    "id": "hydro",
+    "licit": "yes"
+  },
+  {
+    "id": "internet-of-energy-network",
+    "licit": "yes"
+  },
+  {
+    "id": "bittube",
+    "licit": "yes"
+  },
+  {
+    "id": "decentraweb",
+    "licit": "yes"
+  },
+  {
+    "id": "zero",
+    "licit": "yes"
+  },
+  {
+    "id": "primas",
+    "licit": "no"
+  },
+  {
+    "id": "rise",
+    "licit": "yes"
+  },
+  {
+    "id": "flypme",
+    "licit": "no"
+  },
+  {
+    "id": "public-mint",
+    "licit": "no"
+  },
+  {
+    "id": "dmm-governance",
+    "licit": "no"
+  },
+  {
+    "id": "etha-lend",
+    "licit": "no"
+  },
+  {
+    "id": "crown",
+    "licit": "yes"
+  },
+  {
+    "id": "enigma",
+    "licit": "yes"
+  },
+  {
+    "id": "option-room",
+    "licit": "maybe"
+  },
+  {
+    "id": "everex",
+    "licit": "yes"
+  },
+  {
+    "id": "motacoin",
+    "licit": "no"
+  },
+  {
+    "id": "collateral-pay",
+    "licit": "no"
+  },
+  {
+    "id": "transcodium",
+    "licit": "yes"
+  },
+  {
+    "id": "niobium-coin",
+    "licit": "yes"
+  },
+  {
+    "id": "xion-finance",
+    "licit": "no"
+  },
+  {
+    "id": "trinity-network-credit",
+    "licit": "yes"
+  },
+  {
+    "id": "titanswap",
+    "licit": "no"
+  },
+  {
+    "id": "orion-protocol",
+    "licit": "no"
+  },
+  {
+    "id": "mirror-protocol",
+    "licit": "no"
+  },
+  {
+    "id": "centrifuge",
+    "licit": "no"
+  },
+  {
+    "id": "alchemix",
+    "licit": "no"
+  },
+  {
+    "id": "wanchain",
+    "licit": "no"
+  },
+  {
+    "id": "allianceblock",
+    "licit": "no"
+  },
+  {
+    "id": "marketpeak",
+    "licit": "no"
+  },
+  {
+    "id": "openocean",
+    "licit": "no"
+  },
+  {
+    "id": "bzx-protocol",
+    "licit": "no"
+  },
+  {
+    "id": "venus-usdc",
+    "licit": "no"
+  },
+  {
+    "id": "adapad",
+    "licit": "no"
+  },
+  {
+    "id": "kava-lend",
+    "licit": "no"
+  },
+  {
+    "id": "cvault-finance",
+    "licit": "no"
+  },
+  {
+    "id": "hoge-finance",
+    "licit": "no"
+  },
+  {
+    "id": "wrapped-nxm",
+    "licit": "no"
+  },
+  {
+    "id": "tranchess",
+    "licit": "no"
+  },
+  {
+    "id": "insure",
+    "licit": "no"
+  },
+  {
+    "id": "freicoin",
+    "licit": "no"
+  },
+  {
+    "id": "sparkpoint-fuel",
+    "licit": "no"
+  },
+  {
+    "id": "masari",
+    "licit": "yes"
+  },
+  {
+    "id": "rasko",
+    "licit": "no"
+  },
+  {
+    "id": "frontier-token",
+    "licit": "no"
+  },
+  {
+    "id": "lido-dao",
+    "licit": "no"
+  },
+  {
+    "id": "venus-xvs",
+    "licit": "no"
+  },
+  {
+    "id": "venus-busd",
+    "licit": "no"
+  },
+  {
+    "id": "convex-finance",
+    "licit": "no"
+  },
+  {
+    "id": "mx-token-2",
+    "licit": "no"
+  },
+  {
+    "id": "barnbridge",
+    "licit": "no"
+  },
+  {
+    "id": "akropolis",
+    "licit": "no"
+  },
+  {
+    "id": "bscpad",
+    "licit": "no"
+  },
+  {
+    "id": "bella-protocol",
+    "licit": "no"
+  },
+  {
+    "id": "harvest-finance",
+    "licit": "no"
+  },
+  {
+    "id": "convergence",
+    "licit": "no"
+  },
+  {
+    "id": "wing-finance",
+    "licit": "no"
+  },
+  {
+    "id": "invictus-hyprion-fund",
+    "licit": "no"
+  },
+  {
+    "id": "paid-network",
+    "licit": "maybe"
+  },
+  {
+    "id": "dexe",
+    "licit": "no"
+  },
+  {
+    "id": "pnetwork",
+    "licit": "maybe"
+  },
+  {
+    "id": "cargox",
+    "licit": "yes"
+  },
+  {
+    "id": "raydium",
+    "licit": "no"
+  },
+  {
+    "id": "okb",
+    "licit": "no"
+  },
+  {
+    "id": "bitcoin-gold",
+    "licit": "no"
+  },
+  {
+    "id": "perpetual-protocol",
+    "licit": "no"
+  },
+  {
+    "id": "yearn-finance",
+    "licit": "no"
+  },
+  {
+    "id": "shiba-inu",
+    "licit": "no"
+  },
+  {
+    "id": "bittorrent",
+    "licit": "yes"
+  },
+  {
+    "id": "kan",
+    "licit": "no"
+  },
+  {
+    "id": "auto",
+    "licit": "no"
+  },
+  {
+    "id": "force-protocol",
+    "licit": "no"
+  },
+  {
+    "id": "saffron-finance",
+    "licit": "no"
+  },
+  {
+    "id": "ttc-protocol",
+    "licit": "no"
+  },
+  {
+    "id": "zkspace",
+    "licit": "no"
+  },
+  {
+    "id": "talken",
+    "licit": "yes"
+  },
+  {
+    "id": "coinloan",
+    "licit": "no"
+  },
+  {
+    "id": "yflink",
+    "licit": "no"
+  },
+  {
+    "id": "tokenclub",
+    "licit": "no"
+  },
+  {
+    "id": "tranche-finance",
+    "licit": "no"
+  },
+  {
+    "id": "synthetify-token",
+    "licit": "no"
+  },
+  {
+    "id": "dfyn-network",
+    "licit": "no"
+  },
+  {
+    "id": "minter-network",
+    "licit": "no"
+  },
+  {
+    "id": "spartan-protocol-token",
+    "licit": "no"
+  },
+  {
+    "id": "dforce-token",
+    "licit": "no"
+  },
+  {
+    "id": "furucombo",
+    "licit": "no"
+  },
+  {
+    "id": "swingby",
+    "licit": "no"
+  },
+  {
+    "id": "salt",
+    "licit": "no"
+  },
+  {
+    "id": "anchor-neural-world-token",
+    "licit": "yes"
+  },
+  {
+    "id": "venus-dai",
+    "licit": "no"
+  },
+  {
+    "id": "cybervein",
+    "licit": "yes"
+  },
+  {
+    "id": "graviton-zero",
+    "licit": "no"
+  },
+  {
+    "id": "blockbank",
+    "licit": "no"
+  },
+  {
+    "id": "bone-shibaswap",
+    "licit": "no"
+  },
+  {
+    "id": "green-ben",
+    "licit": "no"
+  },
+  {
+    "id": "equalizer",
+    "licit": "no"
+  },
+  {
+    "id": "plasma-finance",
+    "licit": "no"
+  },
+  {
+    "id": "konomi-network",
+    "licit": "no"
+  },
+  {
+    "id": "peos",
+    "licit": "yes"
+  },
+  {
+    "id": "bho-network",
+    "licit": "no"
+  },
+  {
+    "id": "polytrade",
+    "licit": "no"
+  },
+  {
+    "id": "exmo-coin",
+    "licit": "no"
+  },
+  {
+    "id": "ripio-credit-network",
+    "licit": "no"
+  },
+  {
+    "id": "cyclone-protocol",
+    "licit": "no"
+  },
+  {
+    "id": "autonio",
+    "licit": "no"
+  },
+  {
+    "id": "venus-usdt",
+    "licit": "no"
+  },
+  {
+    "id": "s4fe",
+    "licit": "yes"
+  },
+  {
+    "id": "leverj-gluon",
+    "licit": "no"
+  },
+  {
+    "id": "makiswap",
+    "licit": "no"
+  },
+  {
+    "id": "essentia",
+    "licit": "no"
+  },
+  {
+    "id": "axpire",
+    "licit": "yes"
+  },
+  {
+    "id": "uca",
+    "licit": "yes"
+  },
+  {
+    "id": "verso",
+    "licit": "no"
+  },
+  {
+    "id": "unimex-network",
+    "licit": "no"
+  },
+  {
+    "id": "conceal",
+    "licit": "no"
+  },
+  {
+    "id": "zeroswap",
+    "licit": "no"
+  },
+  {
+    "id": "sator",
+    "licit": "yes"
+  },
+  {
+    "id": "wepower",
+    "licit": "yes"
+  },
+  {
+    "id": "blackcoin",
+    "licit": "yes"
+  },
+  {
+    "id": "centric-cash",
+    "licit": "no"
+  },
+  {
+    "id": "dragonvein",
+    "licit": "yes"
+  },
+  {
+    "id": "vodra",
+    "licit": "yes"
+  },
+  {
+    "id": "venus-bch",
+    "licit": "no"
+  },
+  {
+    "id": "nerve-finance",
+    "licit": "no"
+  },
+  {
+    "id": "prcy-coin",
+    "licit": "yes"
+  },
+  {
+    "id": "mochi-market",
+    "licit": "yes"
+  },
+  {
+    "id": "atlas-protocol",
+    "licit": "yes"
+  },
+  {
+    "id": "fsw-token",
+    "licit": "no"
+  },
+  {
+    "id": "argon",
+    "licit": "no"
+  },
+  {
+    "id": "pinkcoin",
+    "licit": "yes"
+  },
+  {
+    "id": "berry-data",
+    "licit": "yes"
+  },
+  {
+    "id": "phore",
+    "licit": "yes"
+  },
+  {
+    "id": "suqa",
+    "licit": "yes"
+  },
+  {
+    "id": "safeblast",
+    "licit": "no"
+  },
+  {
+    "id": "cheems",
+    "licit": "yes"
+  },
+  {
+    "id": "yellow-road",
+    "licit": "no"
+  },
+  {
+    "id": "non-fungible-yearn",
+    "licit": "no"
+  },
+  {
+    "id": "frax-share",
+    "licit": "no"
+  },
+  {
+    "id": "blitzpredict",
+    "licit": "no"
+  },
+  {
+    "id": "yield-protocol",
+    "licit": "no"
+  },
+  {
+    "id": "filecash",
+    "licit": "yes"
+  },
+  {
+    "id": "kobocoin",
+    "licit": "yes"
+  },
+  {
+    "id": "gourmetgalaxy",
+    "licit": "no"
+  },
+  {
+    "id": "pascalcoin",
+    "licit": "yes"
+  },
+  {
+    "id": "pancake-bunny",
+    "licit": "no"
+  },
+  {
+    "id": "orao-network",
+    "licit": "yes"
+  },
+  {
+    "id": "coinfi",
+    "licit": "yes"
+  },
+  {
+    "id": "u-network",
+    "licit": "yes"
+  },
+  {
+    "id": "shield-protocol-2",
+    "licit": "yes"
+  },
+  {
+    "id": "sapphire",
+    "licit": "yes"
+  },
+  {
+    "id": "new-bitshares",
+    "licit": "no"
+  },
+  {
+    "id": "ampleforth",
+    "licit": "no"
+  },
+  {
+    "id": "ocean-protocol",
+    "licit": "no"
+  },
+  {
+    "id": "rocket-pool",
+    "licit": "no"
+  },
+  {
+    "id": "persistence",
+    "licit": "no"
+  },
+  {
+    "id": "snowball-token",
+    "licit": "no"
+  },
+  {
+    "id": "digitex-futures-exchange",
+    "licit": "no"
+  },
+  {
+    "id": "lokr",
+    "licit": "no"
+  },
+  {
+    "id": "gnosis",
+    "licit": "maybe"
+  },
+  {
+    "id": "wazirx",
+    "licit": "no"
+  },
+  {
+    "id": "wink",
+    "licit": "no"
+  },
+  {
+    "id": "hedgetrade",
+    "licit": "yes"
+  },
+  {
+    "id": "aavegotchi",
+    "licit": "no"
+  },
+  {
+    "id": "nusd",
+    "licit": "maybe"
+  },
+  {
+    "id": "beer-money",
+    "licit": "no"
+  },
+  {
+    "id": "pigeoncoin",
+    "licit": "yes"
+  },
+  {
+    "id": "silverstonks",
+    "licit": "no"
+  },
+  {
+    "id": "samusky-token",
+    "licit": "no"
+  },
+  {
+    "id": "bounty0x",
+    "licit": "yes"
+  },
+  {
+    "id": "rentberry",
+    "licit": "yes"
+  },
+  {
+    "id": "lunyr",
+    "licit": "yes"
+  },
+  {
+    "id": "coinalpha",
+    "licit": "no"
+  },
+  {
+    "id": "bitcash",
+    "licit": "yes"
+  },
+  {
+    "id": "deutsche-emark",
+    "licit": "yes"
+  },
+  {
+    "id": "privatix",
+    "licit": "yes"
+  },
+  {
+    "id": "gaj",
+    "licit": "no"
+  },
+  {
+    "id": "safeinsure",
+    "licit": "no"
+  },
+  {
+    "id": "iq-cash",
+    "licit": "yes"
+  },
+  {
+    "id": "crypto-kombat",
+    "licit": "no"
+  },
+  {
+    "id": "aquariuscoin",
+    "licit": "yes"
+  },
+  {
+    "id": "rapidz",
+    "licit": "yes"
+  },
+  {
+    "id": "rainbow-token",
+    "licit": "no"
+  },
+  {
+    "id": "auxilium",
+    "licit": "yes"
+  },
+  {
+    "id": "trezarcoin",
+    "licit": "yes"
+  },
+  {
+    "id": "luxcoin",
+    "licit": "yes"
+  },
+  {
+    "id": "yenten",
+    "licit": "yes"
+  },
+  {
+    "id": "coinsbit-token",
+    "licit": "maybe"
+  },
+  {
+    "id": "the-corgi-of-polkabridge",
+    "licit": "no"
+  },
+  {
+    "id": "zoracles",
+    "licit": "no"
+  },
+  {
+    "id": "hertz-network",
+    "licit": "yes"
+  },
+  {
+    "id": "iridium",
+    "licit": "yes"
+  },
+  {
+    "id": "blockpass",
+    "licit": "yes"
+  },
+  {
+    "id": "uma",
+    "licit": "no"
+  },
+  {
+    "id": "ontology",
+    "licit": "no"
+  },
+  {
+    "id": "serum",
+    "licit": "no"
+  },
+  {
+    "id": "evil-coin",
+    "licit": "no"
+  },
+  {
+    "id": "rendoge",
+    "licit": "no"
+  },
+  {
+    "id": "renbtc",
+    "licit": "no"
+  },
+  {
+    "id": "rupee",
+    "licit": "yes"
+  },
+  {
+    "id": "imagecoin",
+    "licit": "yes"
+  },
+  {
+    "id": "axe",
+    "licit": "yes"
+  },
+  {
+    "id": "scholarship-coin",
+    "licit": "yes"
+  },
+  {
+    "id": "merebel",
+    "licit": "yes"
+  },
+  {
+    "id": "mobile-crypto-pay-coin",
+    "licit": "yes"
+  },
+  {
+    "id": "neutron",
+    "licit": "yes"
+  },
+  {
+    "id": "ibtc-2",
+    "licit": "no"
+  },
+  {
+    "id": "dynamite-token",
+    "licit": "no"
+  },
+  {
+    "id": "sparks",
+    "licit": "no"
+  },
+  {
+    "id": "step-hero",
+    "licit": "no"
+  },
+  {
+    "id": "vempire-ddao",
+    "licit": "no"
+  },
+  {
+    "id": "certik",
+    "licit": "no"
+  },
+  {
+    "id": "mint-club",
+    "licit": "no"
+  },
+  {
+    "id": "deri-protocol",
+    "licit": "no"
+  },
+  {
+    "id": "vita-inu",
+    "licit": "maybe"
+  },
+  {
+    "id": "polkamarkets",
+    "licit": "no"
+  },
+  {
+    "id": "benqi",
+    "licit": "no"
+  },
+  {
+    "id": "pangolin",
+    "licit": "no"
+  },
+  {
+    "id": "krypton-dao",
+    "licit": "yes"
+  },
+  {
+    "id": "newton",
+    "licit": "yes"
+  },
+  {
+    "id": "sperax",
+    "licit": "no"
+  },
+  {
+    "id": "ekta-2",
+    "licit": "no"
+  },
+  {
+    "id": "lunar-2",
+    "licit": "no"
+  },
+  {
+    "id": "label-foundation",
+    "licit": "yes"
+  },
+  {
+    "id": "ethax",
+    "licit": "no"
+  },
+  {
+    "id": "dacxi",
+    "licit": "maybe"
+  },
+  {
+    "id": "strikecoin",
+    "licit": "no"
+  },
+  {
+    "id": "goldfinch",
+    "licit": "no"
+  },
+  {
+    "id": "urus-token",
+    "licit": "no"
+  },
+  {
+    "id": "babb",
+    "licit": "no"
+  },
+  {
+    "id": "only1",
+    "licit": "maybe"
+  },
+  {
+    "id": "kunci-coin",
+    "licit": "maybe"
+  },
+  {
+    "id": "octopus-network",
+    "licit": "yes"
+  },
+  {
+    "id": "sienna",
+    "licit": "no"
+  },
+  {
+    "id": "pocket-network",
+    "licit": "yes"
+  },
+  {
+    "id": "oec-token",
+    "licit": "no"
+  },
+  {
+    "id": "elk-finance",
+    "licit": "no"
+  },
+  {
+    "id": "tectonic",
+    "licit": "no"
+  },
+  {
+    "id": "geist-finance",
+    "licit": "no"
+  },
+  {
+    "id": "zeus-finance",
+    "licit": "no"
+  },
+  {
+    "id": "fx-coin",
+    "licit": "no"
+  },
+  {
+    "id": "the-open-network",
+    "licit": "yes"
+  },
+  {
+    "id": "fruits",
+    "licit": "no"
+  },
+  {
+    "id": "wbnb",
+    "licit": "no"
+  },
+  {
+    "id": "mangoman-intelligent",
+    "licit": "no"
+  },
+  {
+    "id": "wrapped-velas",
+    "licit": "no"
+  },
+  {
+    "id": "galaxy-finance",
+    "licit": "yes"
+  },
+  {
+    "id": "looksrare",
+    "licit": "maybe"
+  },
+  {
+    "id": "solo-coin",
+    "licit": "no"
+  },
+  {
+    "id": "biswap",
+    "licit": "no"
+  },
+  {
+    "id": "joe",
+    "licit": "no"
+  },
+  {
+    "id": "huobi-btc",
+    "licit": "no"
+  },
+  {
+    "id": "alpha-finance",
+    "licit": "no"
+  },
+  {
+    "id": "the-sandbox",
+    "licit": "no"
+  },
+  {
+    "id": "islamicoin",
+    "licit": "yes"
+  },
+  {
+    "id": "gari-network",
+    "licit": "maybe"
+  },
+  {
+    "id": "solend",
+    "licit": "no"
+  },
+  {
+    "id": "inverse-finance",
+    "licit": "no"
+  },
+  {
+    "id": "civilization",
+    "licit": "no"
+  },
+  {
+    "id": "sovryn",
+    "licit": "no"
+  },
+  {
+    "id": "babyswap",
+    "licit": "no"
+  },
+  {
+    "id": "xen-crypto",
+    "licit": "maybe"
+  },
+  {
+    "id": "immutable",
+    "licit": "maybe"
+  },
+  {
+    "id": "solar",
+    "licit": "yes"
+  },
+  {
+    "id": "floki",
+    "licit": "no"
+  },
+  {
+    "id": "pluracoin",
+    "licit": "maybe"
+  },
+  {
+    "id": "bunicorn",
+    "licit": "no"
+  },
+  {
+    "id": "0x",
+    "licit": "no"
+  },
+  {
+    "id": "constitutiondao",
+    "licit": "no"
+  },
+  {
+    "id": "babydoge-coin-eth",
+    "licit": "no"
+  },
+  {
+    "id": "vvs-finance",
+    "licit": "no"
+  },
+  {
+    "id": "1eco",
+    "licit": "yes"
+  },
+  {
+    "id": "everscale",
+    "licit": "no"
+  },
+  {
+    "id": "usdd",
+    "licit": "maybe"
+  },
+  {
+    "id": "terrausd",
+    "licit": "no"
+  },
+  {
+    "id": "fei-usd",
+    "licit": "no"
+  },
+  {
+    "id": "defipulse-index",
+    "licit": "no"
+  },
+  {
+    "id": "stargate-finance",
+    "licit": "no"
+  },
+  {
+    "id": "xcad-network",
+    "licit": "maybe"
+  },
+  {
+    "id": "mango-markets",
+    "licit": "no"
+  },
+  {
+    "id": "fleta",
+    "licit": "yes"
+  },
+  {
+    "id": "yooshi",
+    "licit": "no"
+  },
+  {
+    "id": "lever",
+    "licit": "no"
+  },
+  {
+    "id": "unicly-cryptopunks-collection",
+    "licit": "no"
+  },
+  {
+    "id": "switcheo",
+    "licit": "no"
+  },
+  {
+    "id": "tnc-coin",
+    "licit": "maybe"
+  },
+  {
+    "id": "mci-coin",
+    "licit": "maybe"
+  },
+  {
+    "id": "all-sports-2",
+    "licit": "yes"
+  },
+  {
+    "id": "xmon",
+    "licit": "no"
+  },
+  {
+    "id": "hyperdao",
+    "licit": "no"
+  },
+  {
+    "id": "airswap",
+    "licit": "no"
+  },
+  {
+    "id": "redfox-labs-2",
+    "licit": "maybe"
+  },
+  {
+    "id": "cryptex-finance",
+    "licit": "no"
+  },
+  {
+    "id": "boringdao",
+    "licit": "no"
+  },
+  {
+    "id": "bosagora",
+    "licit": "yes"
+  },
+  {
+    "id": "rai-finance",
+    "licit": "no"
+  },
+  {
+    "id": "karura",
+    "licit": "no"
+  },
+  {
+    "id": "apollox-2",
+    "licit": "no"
+  },
+  {
+    "id": "boson-protocol",
+    "licit": "no"
+  },
+  {
+    "id": "project-inverse",
+    "licit": "no"
+  },
+  {
+    "id": "cryptex",
+    "licit": "no"
+  },
+  {
+    "id": "contentbox",
+    "licit": "yes"
+  },
+  {
+    "id": "innova",
+    "licit": "yes"
+  },
+  {
+    "id": "remme",
+    "licit": "yes"
+  },
+  {
+    "id": "beacon",
+    "licit": "yes"
+  },
+  {
+    "id": "gokumarket-credit",
+    "licit": "no"
+  },
+  {
+    "id": "moonedge",
+    "licit": "no"
+  },
+  {
+    "id": "bankroll-network",
+    "licit": "no"
+  },
+  {
+    "id": "litecash",
+    "licit": "yes"
+  },
+  {
+    "id": "edge",
+    "licit": "yes"
+  },
+  {
+    "id": "meta-musk",
+    "licit": "no"
+  },
+  {
+    "id": "metadubai",
+    "licit": "yes"
+  },
+  {
+    "id": "b-protocol",
+    "licit": "no"
+  },
+  {
+    "id": "brother-music-platform",
+    "licit": "no"
+  },
+  {
+    "id": "airbloc-protocol",
+    "licit": "yes"
+  },
+  {
+    "id": "realfinance-network",
+    "licit": "no"
+  },
+  {
+    "id": "bamboo-defi",
+    "licit": "no"
+  },
+  {
+    "id": "move-network",
+    "licit": "yes"
+  },
+  {
+    "id": "nft-art-finance",
+    "licit": "no"
+  },
+  {
+    "id": "vent-finance",
+    "licit": "no"
+  },
+  {
+    "id": "celletf",
+    "licit": "no"
+  },
+  {
+    "id": "onering",
+    "licit": "no"
+  },
+  {
+    "id": "hashland-coin",
+    "licit": "no"
+  },
+  {
+    "id": "defrost-finance",
+    "licit": "no"
+  },
+  {
+    "id": "upfi-network",
+    "licit": "no"
+  },
+  {
+    "id": "rabbit-finance",
+    "licit": "no"
+  },
+  {
+    "id": "gera-coin",
+    "licit": "yes"
   }
 ]
