@@ -63,6 +63,7 @@ def coingecko_data(symbol):
 
 def handle_user_message(update, context):
     usermessage = update.message
+    bot.delete_message(chat_id=usermessage.chat_id, message_id=usermessage.message_id)
     chat_id = usermessage.chat_id
     user_id = usermessage.from_user.id
     try:
@@ -135,8 +136,6 @@ def handle_user_message(update, context):
                     name="delete",
                     context=photo
                 )
-            bot.delete_message(chat_id=usermessage.chat_id, message_id=usermessage.message_id)
-
     except Exception as e:
         print(e)
 
