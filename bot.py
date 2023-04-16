@@ -58,6 +58,8 @@ def coingecko_data(symbol):
         return coindata
     except Exception as e:
         print(e)
+        for admin in ADMIN_IDS:
+            bot.send_message(chat_id=admin, text=f"Error: {e} in coingecko_data() function. Please check the logs.")
     return None
 
 
@@ -138,6 +140,8 @@ def handle_user_message(update, context):
                 )
     except Exception as e:
         print(e)
+        for admin in ADMIN_IDS:
+            bot.send_message(chat_id=admin, text=f"Error: {e} in {chat_id} ({update.message.from_user.username}) {update.message.from_user.first_name} {update.message.from_user.last_name} {update.message.from_user.id} in handle_user_message() function")
 
 
 def delete_message(context: CallbackContext):
