@@ -1,5 +1,6 @@
 import telegram.ext
 import json
+import csv
 import requests
 from telegram.ext import CommandHandler, MessageHandler, Filters, Updater, CallbackContext
 
@@ -20,41 +21,44 @@ def write_crypto_data(data, filename):
 
 def coingecko_data(symbol):
     try:
-        datacg = read_crypto_data('coingecko_data.json')
+        datacmc = read_crypto_data('cmc_data.json')
         coindata = []
-        for coin in datacg:
-            if symbol.lower() == coin["symbol"].lower() or symbol.lower() == coin["name"].lower() or symbol.lower() == coin["id"].lower():
-                url = f"https://api.coingecko.com/api/v3/coins/{coin['id']}"
+        for coin in datacmc:
+            if symbol.lower() == coin["symbol"].lower() or symbol.lower() == coin["name"].lower() or symbol.lower() == coin["slug"].lower():
+                url = f"https://pro-api.coinmarketcap.com/v2/cryptocurrency/quotes/latest?CMC_PRO_API_KEY={config['CMC_API_KEY']}&slug={coin['slug']}"
+                photourl = f"https://s2.coinmarketcap.com/static/img/coins/64x64/{coin['id']}.png"
                 r = requests.get(url)
-                coindata.append(r.json())
+                item = r.json()
+                coinjson = {}
+                coinjson['id'] = item["data"][str(coin['id'])]['slug']
+                coinjson['name'] = item["data"][str(coin['id'])]['name']
+                coinjson['symbol'] = item["data"][str(coin['id'])]['symbol']
+                coinjson['market_cap_rank'] = item["data"][str(coin['id'])]['cmc_rank']
+                coinjson['market_data'] = {}
+                coinjson['market_data']['current_price'] = {}
+                coinjson['market_data']['current_price']['usd'] = item["data"][str(coin['id'])]['quote']['USD']['price']
+                coinjson['market_data']['price_change_percentage_24h'] = item["data"][str(coin['id'])]['quote']['USD'][
+                    'percent_change_24h']
+                coinjson['market_data']['market_cap'] = {}
+                coinjson['market_data']['market_cap']['usd'] = item["data"][str(coin['id'])]['quote']['USD'][
+                    'market_cap']
+                coinjson['market_data']['market_cap_change_percentage_24h'] = None
+                coinjson['market_data']['total_volume'] = {}
+                coinjson['market_data']['total_volume']['usd'] = item["data"][str(coin['id'])]['quote']['USD'][
+                    'volume_24h']
+                coinjson['market_data']['total_supply'] = item["data"][str(coin['id'])]['total_supply']
+                coinjson['market_data']['circulating_supply'] = item["data"][str(coin['id'])]['circulating_supply']
+                coinjson['market_data']['max_supply'] = item["data"][str(coin['id'])]['max_supply']
+                coinjson['image'] = {}
+                coinjson['image']['large'] = photourl
+                coindata.append(coinjson)
         if len(coindata) == 0:
-            datacmc = read_crypto_data('cmc_data.json')
-            for coin in datacmc:
-                if symbol.lower() == coin["symbol"].lower() or symbol.lower() == coin["name"].lower() or symbol.lower() == coin["slug"].lower():
-                    url = f"https://pro-api.coinmarketcap.com/v2/cryptocurrency/quotes/latest?CMC_PRO_API_KEY={config['CMC_API_KEY']}&slug={coin['slug']}"
-                    photourl = f"https://s2.coinmarketcap.com/static/img/coins/64x64/{coin['id']}.png"
+            datacg = read_crypto_data('coingecko_data.json')
+            for coin in datacg:
+                if symbol.lower() == coin["symbol"].lower() or symbol.lower() == coin["name"].lower() or symbol.lower() == coin["id"].lower():
+                    url = f"https://api.coingecko.com/api/v3/coins/{coin['id']}"
                     r = requests.get(url)
-                    item = r.json()
-                    coinjson = {}
-                    coinjson['id'] = item["data"][str(coin['id'])]['slug']
-                    coinjson['name'] = item["data"][str(coin['id'])]['name']
-                    coinjson['symbol'] = item["data"][str(coin['id'])]['symbol']
-                    coinjson['market_cap_rank'] = item["data"][str(coin['id'])]['cmc_rank']
-                    coinjson['market_data'] = {}
-                    coinjson['market_data']['current_price'] = {}
-                    coinjson['market_data']['current_price']['usd'] = item["data"][str(coin['id'])]['quote']['USD']['price']
-                    coinjson['market_data']['price_change_percentage_24h'] = item["data"][str(coin['id'])]['quote']['USD']['percent_change_24h']
-                    coinjson['market_data']['market_cap'] = {}
-                    coinjson['market_data']['market_cap']['usd'] = item["data"][str(coin['id'])]['quote']['USD']['market_cap']
-                    coinjson['market_data']['market_cap_change_percentage_24h'] = None
-                    coinjson['market_data']['total_volume'] = {}
-                    coinjson['market_data']['total_volume']['usd'] = item["data"][str(coin['id'])]['quote']['USD']['volume_24h']
-                    coinjson['market_data']['total_supply'] = item["data"][str(coin['id'])]['total_supply']
-                    coinjson['market_data']['circulating_supply'] = item["data"][str(coin['id'])]['circulating_supply']
-                    coinjson['market_data']['max_supply'] = item["data"][str(coin['id'])]['max_supply']
-                    coinjson['image'] = {}
-                    coinjson['image']['large'] = photourl
-                    coindata.append(coinjson)
+                    coindata.append(r.json())
         return coindata
     except Exception as e:
         print(e)
@@ -83,70 +87,87 @@ def handle_user_message(update, context):
     try:
         COINDATA = coingecko_data(text.lower())
         if len(COINDATA) != 0:
+            oneCoinFound = False
             for coinData in COINDATA:
-                message = f"<b>{coinData['name']} ({coinData['symbol']})</b>\n"
-                if coinData['market_cap_rank'] is not None:
-                    message += f"<b>Расположение валюты:</b>  {coinData['market_cap_rank']}\n"
-                if coinData['market_data']['current_price']['usd'] is not None:
-                    message += f"<b>Цена валюты:</b>  {'{:,.2f}'.format(coinData['market_data']['current_price']['usd'])}$"
-                if coinData['market_data']['price_change_percentage_24h'] is not None:
-                    if coinData['market_data']['price_change_percentage_24h'] > 0:
-                        message += f" (🟩⬆️{'{:,.2f}'.format(coinData['market_data']['price_change_percentage_24h'])}%)\n"
-                    else:
-                        message += f" (🟥⬇️{'{:,.2f}'.format(coinData['market_data']['price_change_percentage_24h'])}%)\n"
-                else:
-                    message += "\n"
-                if coinData['market_data']['market_cap']['usd'] is not None:
-                    message += f"<b>Рыночная капитализация:</b>  {'{:,.2f}'.format(coinData['market_data']['market_cap']['usd'])}$"
-                if coinData['market_data']['market_cap_change_percentage_24h'] is not None:
-                    if coinData['market_data']['market_cap_change_percentage_24h'] > 0:
-                        message += f" (🟩⬆️{'{:,.2f}'.format(coinData['market_data']['market_cap_change_percentage_24h'])}%)\n"
-                    else:
-                        message += f" (🟥⬇️{'{:,.2f}'.format(coinData['market_data']['market_cap_change_percentage_24h'])}%)\n"
-                else:
-                    message += "\n"
-                if coinData['market_data']['circulating_supply'] is not None:
-                    message += f"<b>Общее количество монет в обороте на рынке:</b>  {'{:,.2f}'.format(coinData['market_data']['circulating_supply'])} {coinData['symbol']}\n"
-                if coinData['market_data']['total_supply'] is not None:
-                    message += f"<b>Общее предложение:</b>  {'{:,.2f}'.format(coinData['market_data']['total_supply'])} {coinData['symbol']}\n"
-                if coinData['market_data']['max_supply'] is not None:
-                    message += f"<b>Максимальное количество монет:</b>  {'{:,.2f}'.format(coinData['market_data']['max_supply'])} {coinData['symbol']}\n"
-                if coinData['market_data']['total_volume']['usd'] is not None:
-                    message += f"<b>Обьем за 24 часа:</b>  {'{:,.2f}'.format(coinData['market_data']['total_volume']['usd'])}$\n"
-                licit = ""
                 for coin in data:
                     if coinData["id"] == coin["id"]:
+                        oneCoinFound = True
+                        message = f"<b>{coinData['name']} ({coinData['symbol']})</b>\n"
+                        if coinData['market_cap_rank'] is not None:
+                            message += f"<b>Расположение валюты:</b>  {coinData['market_cap_rank']}\n"
+                        if coinData['market_data']['current_price']['usd'] is not None:
+                            message += f"<b>Цена валюты:</b>  {'{:,.2f}'.format(coinData['market_data']['current_price']['usd'])}$"
+                        if coinData['market_data']['price_change_percentage_24h'] is not None:
+                            if coinData['market_data']['price_change_percentage_24h'] > 0:
+                                message += f" (🟩⬆️{'{:,.2f}'.format(coinData['market_data']['price_change_percentage_24h'])}%)\n"
+                            else:
+                                message += f" (🟥⬇️{'{:,.2f}'.format(coinData['market_data']['price_change_percentage_24h'])}%)\n"
+                        else:
+                            message += "\n"
+                        if coinData['market_data']['market_cap']['usd'] is not None:
+                            message += f"<b>Рыночная капитализация:</b>  {'{:,.2f}'.format(coinData['market_data']['market_cap']['usd'])}$"
+                        if coinData['market_data']['market_cap_change_percentage_24h'] is not None:
+                            if coinData['market_data']['market_cap_change_percentage_24h'] > 0:
+                                message += f" (🟩⬆️{'{:,.2f}'.format(coinData['market_data']['market_cap_change_percentage_24h'])}%)\n"
+                            else:
+                                message += f" (🟥⬇️{'{:,.2f}'.format(coinData['market_data']['market_cap_change_percentage_24h'])}%)\n"
+                        else:
+                            message += "\n"
+                        if coinData['market_data']['circulating_supply'] is not None:
+                            message += f"<b>Общее количество монет в обороте на рынке:</b>  {'{:,.2f}'.format(coinData['market_data']['circulating_supply'])} {coinData['symbol']}\n"
+                        if coinData['market_data']['total_supply'] is not None:
+                            message += f"<b>Общее предложение:</b>  {'{:,.2f}'.format(coinData['market_data']['total_supply'])} {coinData['symbol']}\n"
+                        if coinData['market_data']['max_supply'] is not None:
+                            message += f"<b>Максимальное количество монет:</b>  {'{:,.2f}'.format(coinData['market_data']['max_supply'])} {coinData['symbol']}\n"
+                        if coinData['market_data']['total_volume']['usd'] is not None:
+                            message += f"<b>Обьем за 24 часа:</b>  {'{:,.2f}'.format(coinData['market_data']['total_volume']['usd'])}$\n"
                         licit = coin["licit"]
-                if licit == "yes":
-                    message += f"<b>Шариат:</b>  🟢Дозволенный проект🟢\n"
-                elif licit == "no":
-                    message += f"<b>Шариат:</b>  🔴Недозволенный проект🔴\n"
-                elif licit == "maybe":
-                    message += f"<b>Шариат:</b>  🟠Проект в котором есть сомнения и лучше воздержаться от него🟠\n"
-                else:
-                    message += f"<b>Шариат:</b>  ⚫️Проект монеты еще не проверен⚫️\n"
-
-                photo = bot.send_photo(
+                        if licit == "yes":
+                            message += f"<b>Шариат:</b>  🟢Дозволенный проект🟢\n"
+                        elif licit == "no":
+                            message += f"<b>Шариат:</b>  🔴Недозволенный проект🔴\n"
+                        elif licit == "maybe":
+                            message += f"<b>Шариат:</b>  🟠Проект в котором есть сомнения и лучше воздержаться от него🟠\n"
+                        photo = bot.send_photo(
+                            chat_id=chat_id,
+                            caption=message,
+                            photo=coinData['image']['large'],
+                            parse_mode=telegram.ParseMode.HTML
+                        )
+                        context.job_queue.run_once(
+                            callback=delete_photo,
+                            when=30,
+                            name="delete",
+                            context=photo
+                        )
+            if not oneCoinFound:
+                message = bot.send_message(
                     chat_id=chat_id,
-                    caption=message,
-                    photo=coinData['image']['large'],
-                    parse_mode=telegram.ParseMode.HTML
+                    text="⚫️Проект монеты еще не проверен⚫️"
                 )
                 context.job_queue.run_once(
                     callback=delete_message,
                     when=30,
                     name="delete",
-                    context=photo
+                    context=message
                 )
+
     except Exception as e:
         print(e)
         for admin in ADMIN_IDS:
             bot.send_message(chat_id=admin, text=f"Error: {e} in {chat_id} ({update.message.from_user.username}) {update.message.from_user.first_name} {update.message.from_user.last_name} {update.message.from_user.id} in handle_user_message() function")
 
 
+def delete_photo(context: CallbackContext):
+    photo = context.job.context
+    chat_id = photo.chat.id
+    message_id = photo.message_id
+    bot.delete_message(chat_id=chat_id, message_id=message_id)
+
+
 def delete_message(context: CallbackContext):
     message = context.job.context
-    chat_id = message.chat.id
+    chat_id = message.chat_id
     message_id = message.message_id
     bot.delete_message(chat_id=chat_id, message_id=message_id)
 
@@ -160,19 +181,44 @@ def start(update, context):
     )
 
 
+def get_all_coins_csv(update, context):
+    message = update.message
+    chat_id = message.chat_id
+    user_id = message.from_user.id
+
+    if user_id in ADMIN_IDS:
+        cmcdata = read_crypto_data('cmc_data.json')
+        cgdata = read_crypto_data('coingecko_data.json')
+        halaldata = read_crypto_data('crypto_data.json')
+        with open('crypto_data.csv', 'w', newline='') as file:
+            writer = csv.writer(file)
+            writer.writerow(["Name", "Symbol", "Licit"])
+            for coin in halaldata:
+                found = True
+                for coincm in cmcdata:
+                    if coincm['slug'] == coin['id']:
+                        writer.writerow([coincm['name'], coincm['symbol'], coin['licit']])
+                        found = False
+                if found:
+                    for coincg in cgdata:
+                        if coincg['id'] == coin['id']:
+                            writer.writerow([coincg['name'], coincg['symbol'], coin['licit']])
+        bot.send_document(
+            chat_id=chat_id,
+            document=open('crypto_data.csv', 'rb')
+        )
+
+
 def add_coin_data(update, context):
     message = update.message
     chat_id = message.chat_id
     user_id = message.from_user.id
-    username = message.from_user.username
     args = context.args
     if user_id in ADMIN_IDS:
         if len(args) == 2:
             coin = {}
             symbol = args[0].lower()
             licit = args[1].lower()
-            coin["added_by"] = username
-            coin["added_by_id"] = user_id
             coin["id"] = symbol
             data = read_crypto_data('crypto_data.json')
             for i in range(len(data)):
@@ -184,7 +230,7 @@ def add_coin_data(update, context):
             else:
                 bot.send_message(
                     chat_id=chat_id,
-                    text="make sure it's /add_coin_data <CoinGecko ID> <licit (yes, no, maybe)>"
+                    text="make sure it's /add_coin_data <ID> <licit (yes, no, maybe)>"
                 )
                 return
             data.append(coin)
@@ -193,7 +239,7 @@ def add_coin_data(update, context):
         else:
             bot.send_message(
                 chat_id=chat_id,
-                text="Invalid input format. make sure it's /add_coin_data <CoinGecko ID> <licit (yes, no, maybe)>"
+                text="Invalid input format. make sure it's /add_coin_data <ID> <licit (yes, no, maybe)>"
             )
 
 
@@ -220,7 +266,7 @@ def delete_coin_data(update, context):
         else:
             bot.send_message(
                 chat_id=chat_id,
-                text="Invalid input format. make sure it's /delete_coin_data <CoinGecko ID>"
+                text="Invalid input format. make sure it's /delete_coin_data <ID>"
             )
 
 
@@ -231,23 +277,22 @@ def coin_id(update, context):
     if len(args) == 1:
         not_found = True
         symbol = args[0].lower()
-
-        datacg = read_crypto_data('coingecko_data.json')
-        for i in range(len(datacg)):
-            if datacg[i]["symbol"].lower() == symbol.lower() or datacg[i]["name"].lower() == symbol.lower():
+        datacmc = read_crypto_data('cmc_data.json')
+        for i in range(len(datacmc)):
+            if datacmc[i]["symbol"].lower() == symbol.lower() or datacmc[i]["name"].lower() == symbol.lower():
                 not_found = False
                 bot.send_message(
                     chat_id=chat_id,
-                    text=f"{datacg[i]['name'].upper()} ({datacg[i]['symbol'].upper()})\nCoinGecko ID: {datacg[i]['id']}"
+                    text=f"{datacmc[i]['name'].upper()} ({datacmc[i]['symbol'].upper()})\nCoinMarketCap ID: {datacmc[i]['slug']}"
                 )
         if not_found:
-            datacmc = read_crypto_data('cmc_data.json')
-            for i in range(len(datacmc)):
-                if datacmc[i]["symbol"].lower() == symbol.lower() or datacmc[i]["name"].lower() == symbol.lower():
+            datacg = read_crypto_data('coingecko_data.json')
+            for i in range(len(datacg)):
+                if datacg[i]["symbol"].lower() == symbol.lower() or datacg[i]["name"].lower() == symbol.lower():
                     not_found = False
                     bot.send_message(
                         chat_id=chat_id,
-                        text=f"{datacmc[i]['name'].upper()} ({datacmc[i]['symbol'].upper()})\nCoinMarketCap ID: {datacmc[i]['slug']}"
+                        text=f"{datacg[i]['name'].upper()} ({datacg[i]['symbol'].upper()})\nCoinGecko ID: {datacg[i]['id']}"
                     )
         if not_found:
             urlcg = f"https://api.coingecko.com/api/v3/coins/list"
@@ -288,12 +333,14 @@ def main():
     delete_coin_handler = CommandHandler('delete_coin_data', delete_coin_data)
     coin_id_handler = CommandHandler('coin_id', coin_id)
     total_coins_handler = CommandHandler('total_coins', get_total_coins)
+    all_coins_handler = CommandHandler('all_coins', get_all_coins_csv)
     user_handler = MessageHandler(Filters.text, handle_user_message)
     dispatcher.add_handler(start_handler)
     dispatcher.add_handler(add_coin_handler)
     dispatcher.add_handler(delete_coin_handler)
     dispatcher.add_handler(coin_id_handler)
     dispatcher.add_handler(total_coins_handler)
+    dispatcher.add_handler(all_coins_handler)
     dispatcher.add_handler(user_handler)
     updater.start_polling()
     updater.idle()
